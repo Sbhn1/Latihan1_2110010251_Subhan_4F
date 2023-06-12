@@ -14,7 +14,7 @@ public Matematika (double bil1,double bil2){
      return bil1 + bil2;
  }
    //Membuat method setPengurangan
-  public double setPenguranan(){
+  public double setPengurangan(){
      return bil1 - bil2;
  }
    //Membuat method setPerkalian
@@ -25,4 +25,6 @@ public Matematika (double bil1,double bil2){
   public double setPembagian(){
      return bil1 / bil2;
  }
+
+
 }
